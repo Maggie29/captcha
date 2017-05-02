@@ -1,0 +1,43 @@
+*{
+  font-family: "Roboto";
+}
+.container-captcha{
+  background: red;
+  position: relative;
+  left: 40%;
+  width: 500px;
+  height: 300px;
+
+  }
+#captcha{
+  position: absolute;
+  height: 100px;
+  width: 460px;
+  left: 20px;
+  top: 10px;
+}
+.box-input{
+  position: absolute;
+  height: 100px;
+  width: 230px;
+  left: 20px;
+  top:130px;
+}
+.icons{
+  position: absolute;
+  height: 80px;
+  width: 50px;
+  left: 250px;
+  top: 120px;
+}
+.box-image{
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  left: 300px;
+  top:120px;
+}
+img{
+  width: 180px;
+  height: 80px;
+}
